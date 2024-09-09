@@ -37,3 +37,9 @@ Answer 9: On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
+
+Answer 10: What I had typed isn't there
+
+Answer 11: It gives an error reccommending to ust git pull command
+
+Answer 12: It added the changes I made online

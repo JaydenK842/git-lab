@@ -32,3 +32,8 @@ Author: JaydenK842 <jk834424@ohio.edu>
 Date:   Fri Sep 6 15:07:47 2024 -0400
 
     Initial commit
+
+Answer 9: On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
